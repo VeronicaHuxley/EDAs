@@ -1,4 +1,4 @@
-﻿year,city_state,name,total_est_pop_over16,total_est_median_earnings,total_est_mean_earnings,male_est_pop_over16,male_est_median_earnings,male_est_median_fulltime_earnings,male_est_mean_fulltime_earnings,female_est_pop_over16,female_est_median_earnings,female_est_median_fulltime_earnings,female_est_mean_fulltime_earnings
+year,city_state,name,total_est_pop_over16,total_est_median_earnings,total_est_mean_earnings,male_est_pop_over16,male_est_median_earnings,male_est_median_fulltime_earnings,male_est_mean_fulltime_earnings,female_est_pop_over16,female_est_median_earnings,female_est_median_fulltime_earnings,female_est_mean_fulltime_earnings
 2010,"Mesa city, Arizona",Mesa,214247,26098,46916,117518,29716,40332,51191,96729,23100,36039,40980
 2010,"Tucson city, Arizona",Tucson,262570,22160,41512,135466,25149,36932,45323,127104,19993,31402,36753
 2010,"Fresno city, California",Fresno,222457,21222,45772,117953,23415,38657,49110,104504,19452,32239,41466

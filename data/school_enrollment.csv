@@ -1,0 +1,271 @@
+city_state,name,total_enrolled_3above,total_enrolled_Kto12,percent_enrolled _Kto12public,percent_enrolled _Kto12private,year
+"Albuquerque city, New Mexico",Albuquerque,154690,93171,87.9,12.1,2010
+"Albuquerque city, New Mexico",Albuquerque,161266,94299,90.4,12.1,2011
+"Albuquerque city, New Mexico",Albuquerque,157285,93114,89.4,10.6,2012
+"Albuquerque city, New Mexico",Albuquerque,152301,93766,87.6,12.4,2013
+"Albuquerque city, New Mexico",Albuquerque,152543,93543,89.3,10.7,2014
+"Albuquerque city, New Mexico",Albuquerque,149185,94223,90.6,9.4,2015
+"Albuquerque city, New Mexico",Albuquerque,148152,91599,92.4,7.6,2016
+"Albuquerque city, New Mexico",Albuquerque,147500,95008,90.5,9.5,2017
+"Albuquerque city, New Mexico",Albuquerque,141702,87453,91.6,8.4,2018
+"Albuquerque city, New Mexico",Albuquerque,139099,88286,90,10,2019
+"Austin city, Texas",Austin,230670,118264,92.2,7.8,2010
+"Austin city, Texas",Austin,232710,120112,89.6,7.8,2011
+"Austin city, Texas",Austin,243783,123483,91.9,8.1,2012
+"Austin city, Texas",Austin,244422,130900,91.8,8.2,2013
+"Austin city, Texas",Austin,244896,130240,90.6,9.4,2014
+"Austin city, Texas",Austin,238846,130785,90.1,9.9,2015
+"Austin city, Texas",Austin,240592,129845,88.9,11.1,2016
+"Austin city, Texas",Austin,237120,132139,90.1,9.9,2017
+"Austin city, Texas",Austin,235384,130685,88.6,11.4,2018
+"Austin city, Texas",Austin,237811,130863,89.2,10.8,2019
+"Baltimore city, Maryland",Baltimore,163071,94875,88.4,11.6,2010
+"Baltimore city, Maryland",Baltimore,165866,91243,84.5,11.6,2011
+"Baltimore city, Maryland",Baltimore,165940,91581,86.3,13.7,2012
+"Baltimore city, Maryland",Baltimore,160985,92287,87.3,12.7,2013
+"Baltimore city, Maryland",Baltimore,159514,89490,87.7,12.3,2014
+"Baltimore city, Maryland",Baltimore,156644,90864,84.7,15.3,2015
+"Baltimore city, Maryland",Baltimore,152531,89609,87.4,12.6,2016
+"Baltimore city, Maryland",Baltimore,153816,88232,88.7,11.3,2017
+"Baltimore city, Maryland",Baltimore,147836,83162,85.4,14.6,2018
+"Baltimore city, Maryland",Baltimore,141485,83417,85.7,14.3,2019
+"Boston city, Massachusetts",Boston,196802,77195,83.4,16.6,2010
+"Boston city, Massachusetts",Boston,193777,74979,84,16.6,2011
+"Boston city, Massachusetts",Boston,202122,78537,87.3,12.7,2012
+"Boston city, Massachusetts",Boston,193943,77791,87.8,12.2,2013
+"Boston city, Massachusetts",Boston,188206,76399,87.5,12.5,2014
+"Boston city, Massachusetts",Boston,188623,77670,88.2,11.8,2015
+"Boston city, Massachusetts",Boston,191409,78766,86.2,13.8,2016
+"Boston city, Massachusetts",Boston,189969,76863,86.6,13.4,2017
+"Boston city, Massachusetts",Boston,197849,80499,88.2,11.8,2018
+"Boston city, Massachusetts",Boston,194087,78976,85.4,14.6,2019
+"Charlotte city, North Carolina",Charlotte,202569,130183,87.4,12.6,2010
+"Charlotte city, North Carolina",Charlotte,206840,134031,89.3,12.6,2011
+"Charlotte city, North Carolina",Charlotte,218021,134882,89.2,10.8,2012
+"Charlotte city, North Carolina",Charlotte,221734,141120,90.3,9.7,2013
+"Charlotte city, North Carolina",Charlotte,219977,137566,88.7,11.3,2014
+"Charlotte city, North Carolina",Charlotte,205578,138999,91.3,8.7,2015
+"Charlotte city, North Carolina",Charlotte,221747,145725,88.9,11.1,2016
+"Charlotte city, North Carolina",Charlotte,214888,140619,89.2,10.8,2017
+"Charlotte city, North Carolina",Charlotte,218171,145618,89.8,10.2,2018
+"Charlotte city, North Carolina",Charlotte,223608,145692,89.5,10.5,2019
+"Columbus city, Ohio",Columbus,228980,126823,88.4,11.6,2010
+"Columbus city, Ohio",Columbus,232877,123620,87.5,11.6,2011
+"Columbus city, Ohio",Columbus,223042,123557,86.9,13.1,2012
+"Columbus city, Ohio",Columbus,226622,129501,90.2,9.8,2013
+"Columbus city, Ohio",Columbus,227128,124459,88.5,11.5,2014
+"Columbus city, Ohio",Columbus,229238,126032,89.8,10.2,2015
+"Columbus city, Ohio",Columbus,229700,133302,88.5,11.5,2016
+"Columbus city, Ohio",Columbus,229124,135332,86.6,13.4,2017
+"Columbus city, Ohio",Columbus,229045,135287,86.4,13.6,2018
+"Columbus city, Ohio",Columbus,236889,134039,84.2,15.8,2019
+"Denver city, Colorado",Denver,150407,85911,90.8,9.2,2010
+"Denver city, Colorado",Denver,155231,88074,86.6,9.2,2011
+"Denver city, Colorado",Denver,153657,90663,88.7,11.3,2012
+"Denver city, Colorado",Denver,151415,87611,90.6,9.4,2013
+"Denver city, Colorado",Denver,156390,92514,91.2,8.8,2014
+"Denver city, Colorado",Denver,154261,92573,89.8,10.2,2015
+"Denver city, Colorado",Denver,154354,95265,91.4,8.6,2016
+"Denver city, Colorado",Denver,158035,95835,92.4,7.6,2017
+"Denver city, Colorado",Denver,155812,95708,88.5,11.5,2018
+"Denver city, Colorado",Denver,155252,93498,91.9,8.1,2019
+"Detroit city, Michigan",Detroit,205059,141370,95.4,4.6,2010
+"Detroit city, Michigan",Detroit,205363,140212,93.9,4.6,2011
+"Detroit city, Michigan",Detroit,203137,135424,92.6,7.4,2012
+"Detroit city, Michigan",Detroit,190959,127124,92.6,7.4,2013
+"Detroit city, Michigan",Detroit,180069,126844,94.9,5.1,2014
+"Detroit city, Michigan",Detroit,181285,123863,92.9,7.1,2015
+"Detroit city, Michigan",Detroit,173474,122995,94.2,5.8,2016
+"Detroit city, Michigan",Detroit,165455,119040,93,7,2017
+"Detroit city, Michigan",Detroit,166076,122099,95.7,4.3,2018
+"Detroit city, Michigan",Detroit,166103,121545,93.7,6.3,2019
+"El Paso city, Texas",El Paso,210346,139510,94,6,2010
+"El Paso city, Texas",El Paso,214614,140223,94.6,6,2011
+"El Paso city, Texas",El Paso,210024,140826,95.2,4.8,2012
+"El Paso city, Texas",El Paso,209907,137088,96.1,3.9,2013
+"El Paso city, Texas",El Paso,203716,134094,95.3,4.7,2014
+"El Paso city, Texas",El Paso,209691,131848,94.1,5.9,2015
+"El Paso city, Texas",El Paso,204793,133358,94.7,5.3,2016
+"El Paso city, Texas",El Paso,206550,137969,94.1,5.9,2017
+"El Paso city, Texas",El Paso,204366,131543,97.2,2.8,2018
+"El Paso city, Texas",El Paso,202144,133854,95.6,4.4,2019
+"Fort Worth city, Texas",Fort Worth,213611,149236,90.6,9.4,2010
+"Fort Worth city, Texas",Fort Worth,219781,157282,93.4,9.4,2011
+"Fort Worth city, Texas",Fort Worth,225096,159318,93,7,2012
+"Fort Worth city, Texas",Fort Worth,234339,161657,92.4,7.6,2013
+"Fort Worth city, Texas",Fort Worth,229879,162783,91.7,8.3,2014
+"Fort Worth city, Texas",Fort Worth,237298,168106,92.4,7.6,2015
+"Fort Worth city, Texas",Fort Worth,242058,167940,93.3,6.7,2016
+"Fort Worth city, Texas",Fort Worth,233209,164406,90.9,9.1,2017
+"Fort Worth city, Texas",Fort Worth,248433,177091,92.2,7.8,2018
+"Fort Worth city, Texas",Fort Worth,249786,171357,90,10,2019
+"Fresno city, California",Fresno,165861,110809,97,3,2010
+"Fresno city, California",Fresno,158531,105521,96.4,3,2011
+"Fresno city, California",Fresno,157824,106904,95.9,4.1,2012
+"Fresno city, California",Fresno,158796,109691,96.6,3.4,2013
+"Fresno city, California",Fresno,157238,106914,97.1,2.9,2014
+"Fresno city, California",Fresno,155293,103898,96.3,3.7,2015
+"Fresno city, California",Fresno,157209,103400,96.7,3.3,2016
+"Fresno city, California",Fresno,155395,105003,94,6,2017
+"Fresno city, California",Fresno,158673,108962,95.9,4.1,2018
+"Fresno city, California",Fresno,159876,109795,97.4,2.6,2019
+"Indianapolis city (balance), Indiana",Indianapolis,221022,145130,87.3,12.7,2010
+"Indianapolis city (balance), Indiana",Indianapolis,222265,146893,88.7,12.7,2011
+"Indianapolis city (balance), Indiana",Indianapolis,229336,148010,87.9,12.1,2012
+"Indianapolis city (balance), Indiana",Indianapolis,215099,143760,88.3,11.7,2013
+"Indianapolis city (balance), Indiana",Indianapolis,223098,148549,86.2,13.8,2014
+"Indianapolis city (balance), Indiana",Indianapolis,217687,146026,86.7,13.3,2015
+"Indianapolis city (balance), Indiana",Indianapolis,221604,150321,88.4,11.6,2016
+"Indianapolis city (balance), Indiana",Indianapolis,212528,144889,86.1,13.9,2017
+"Indianapolis city (balance), Indiana",Indianapolis,215588,151457,88.7,11.3,2018
+"Indianapolis city (balance), Indiana",Indianapolis,208768,146577,90.1,9.9,2019
+"Jacksonville city, Florida",Jacksonville,229200,138889,85.1,14.9,2010
+"Jacksonville city, Florida",Jacksonville,217351,138387,85.4,14.9,2011
+"Jacksonville city, Florida",Jacksonville,216000,138811,84.8,15.2,2012
+"Jacksonville city, Florida",Jacksonville,213753,139722,82.6,17.4,2013
+"Jacksonville city, Florida",Jacksonville,217088,141386,81,19,2014
+"Jacksonville city, Florida",Jacksonville,219890,145156,83.3,16.7,2015
+"Jacksonville city, Florida",Jacksonville,223879,143458,83.2,16.8,2016
+"Jacksonville city, Florida",Jacksonville,214583,144141,83.4,16.6,2017
+"Jacksonville city, Florida",Jacksonville,215469,144436,83,17,2018
+"Jacksonville city, Florida",Jacksonville,212165,142176,81.3,18.7,2019
+"Kansas City city, Missouri",Kansas City,124050,80363,85.1,14.9,2010
+"Kansas City city, Missouri",Kansas City,121093,75291,83.9,14.9,2011
+"Kansas City city, Missouri",Kansas City,119903,76918,86,14,2012
+"Kansas City city, Missouri",Kansas City,113158,71558,87.2,12.8,2013
+"Kansas City city, Missouri",Kansas City,119230,77782,86.9,13.1,2014
+"Kansas City city, Missouri",Kansas City,112285,75941,86.7,13.3,2015
+"Kansas City city, Missouri",Kansas City,117397,78013,87,13,2016
+"Kansas City city, Missouri",Kansas City,117816,78310,89.1,10.9,2017
+"Kansas City city, Missouri",Kansas City,118869,78111,87.8,12.2,2018
+"Kansas City city, Missouri",Kansas City,113264,77723,87.2,12.8,2019
+"Las Vegas city, Nevada",Las Vegas,137022,99340,92.7,7.3,2010
+"Las Vegas city, Nevada",Las Vegas,148280,106739,94.1,7.3,2011
+"Las Vegas city, Nevada",Las Vegas,146202,104899,92,8,2012
+"Las Vegas city, Nevada",Las Vegas,152723,111240,92.4,7.6,2013
+"Las Vegas city, Nevada",Las Vegas,151773,112262,91.2,8.8,2014
+"Las Vegas city, Nevada",Las Vegas,155408,113379,91.9,8.1,2015
+"Las Vegas city, Nevada",Las Vegas,153318,110800,92,8,2016
+"Las Vegas city, Nevada",Las Vegas,148950,111861,90.7,9.3,2017
+"Las Vegas city, Nevada",Las Vegas,154818,113941,92.9,7.1,2018
+"Las Vegas city, Nevada",Las Vegas,153703,113091,90.8,9.2,2019
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,153173,103758,77,23,2010
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,158306,102059,84,23,2011
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,155138,101401,80.3,19.7,2012
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,153108,99272,81.8,18.2,2013
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,155331,100980,82.2,17.8,2014
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,152394,100770,82.4,17.6,2015
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,144617,97488,78.5,21.5,2016
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,145105,98644,80.6,19.4,2017
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,146453,99305,82.1,17.9,2018
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,141038,94316,80,20,2019
+"Memphis city, Tennessee",Memphis,178140,115532,89.5,10.5,2010
+"Memphis city, Tennessee",Memphis,182325,114925,89.1,10.5,2011
+"Memphis city, Tennessee",Memphis,178569,116337,84.5,15.5,2012
+"Memphis city, Tennessee",Memphis,173031,116108,85,15,2013
+"Memphis city, Tennessee",Memphis,175525,114248,87.1,12.9,2014
+"Memphis city, Tennessee",Memphis,163368,106206,87,13,2015
+"Memphis city, Tennessee",Memphis,169518,113968,88.5,11.5,2016
+"Memphis city, Tennessee",Memphis,159874,112969,87,13,2017
+"Memphis city, Tennessee",Memphis,163610,111059,86.3,13.7,2018
+"Memphis city, Tennessee",Memphis,162556,111513,87.8,12.2,2019
+"Mesa city, Arizona",Mesa,116155,77559,96.3,3.7,2010
+"Mesa city, Arizona",Mesa,118993,77355,96.5,3.7,2011
+"Mesa city, Arizona",Mesa,122319,82833,93.5,6.5,2012
+"Mesa city, Arizona",Mesa,118123,78581,94.1,5.9,2013
+"Mesa city, Arizona",Mesa,120498,82359,94.3,5.7,2014
+"Mesa city, Arizona",Mesa,121470,83182,93.5,6.5,2015
+"Mesa city, Arizona",Mesa,123374,84005,95.5,4.5,2016
+"Mesa city, Arizona",Mesa,127576,90264,94.6,5.4,2017
+"Mesa city, Arizona",Mesa,124296,87820,93.1,6.9,2018
+"Mesa city, Arizona",Mesa,127644,91660,92.4,7.6,2019
+"Milwaukee city, Wisconsin",Milwaukee,188043,119210,83.2,16.8,2010
+"Milwaukee city, Wisconsin",Milwaukee,185530,121150,79.1,16.8,2011
+"Milwaukee city, Wisconsin",Milwaukee,190653,125936,81.4,18.6,2012
+"Milwaukee city, Wisconsin",Milwaukee,183763,121865,77.6,22.4,2013
+"Milwaukee city, Wisconsin",Milwaukee,178582,116503,76.6,23.4,2014
+"Milwaukee city, Wisconsin",Milwaukee,176509,122152,79.4,20.6,2015
+"Milwaukee city, Wisconsin",Milwaukee,175981,117623,77.4,22.6,2016
+"Milwaukee city, Wisconsin",Milwaukee,167767,113626,79.6,20.4,2017
+"Milwaukee city, Wisconsin",Milwaukee,165341,114425,76.5,23.5,2018
+"Milwaukee city, Wisconsin",Milwaukee,167904,117225,79.6,20.4,2019
+"Nashville-Davidson metropolitan government (balance), Tennessee",Nashville,152063,87187,84.5,15.5,2010
+"Nashville-Davidson metropolitan government (balance), Tennessee",Nashville,153822,89197,84.7,15.5,2011
+"Nashville-Davidson metropolitan government (balance), Tennessee",Nashville,159707,90743,85.5,14.5,2012
+"Nashville-Davidson metropolitan government (balance), Tennessee",Nashville,161240,93011,84.1,15.9,2013
+"Nashville-Davidson metropolitan government (balance), Tennessee",Nashville,155150,94961,84.7,15.3,2014
+"Nashville-Davidson metropolitan government (balance), Tennessee",Nashville,151784,92048,87,13,2015
+"Nashville-Davidson metropolitan government (balance), Tennessee",Nashville,158783,94887,85,15,2016
+"Nashville-Davidson metropolitan government (balance), Tennessee",Nashville,159516,96529,81.5,18.5,2017
+"Nashville-Davidson metropolitan government (balance), Tennessee",Nashville,152086,92406,83,17,2018
+"Nashville-Davidson metropolitan government (balance), Tennessee",Nashville,147982,90179,82.6,17.4,2019
+"Oklahoma City city, Oklahoma",Oklahoma City,151746,97870,91.4,8.6,2010
+"Oklahoma City city, Oklahoma",Oklahoma City,157284,104995,91.7,8.6,2011
+"Oklahoma City city, Oklahoma",Oklahoma City,153291,105514,91.2,8.8,2012
+"Oklahoma City city, Oklahoma",Oklahoma City,155657,103806,91.5,8.5,2013
+"Oklahoma City city, Oklahoma",Oklahoma City,158149,110515,89.1,10.9,2014
+"Oklahoma City city, Oklahoma",Oklahoma City,168961,113807,92.7,7.3,2015
+"Oklahoma City city, Oklahoma",Oklahoma City,159806,114824,91.6,8.4,2016
+"Oklahoma City city, Oklahoma",Oklahoma City,169121,118166,89.9,10.1,2017
+"Oklahoma City city, Oklahoma",Oklahoma City,173802,120562,91,9,2018
+"Oklahoma City city, Oklahoma",Oklahoma City,169405,117679,90.6,9.4,2019
+"Portland city, Oregon",Portland,147243,77138,89.1,10.9,2010
+"Portland city, Oregon",Portland,145689,77155,89.3,10.9,2011
+"Portland city, Oregon",Portland,150909,81100,87.9,12.1,2012
+"Portland city, Oregon",Portland,145761,75160,87.6,12.4,2013
+"Portland city, Oregon",Portland,148686,80745,86.7,13.3,2014
+"Portland city, Oregon",Portland,143930,78266,83.6,16.4,2015
+"Portland city, Oregon",Portland,146669,77986,86,14,2016
+"Portland city, Oregon",Portland,144060,82112,88.2,11.8,2017
+"Portland city, Oregon",Portland,145173,81667,88.3,11.7,2018
+"Portland city, Oregon",Portland,142615,80902,86.9,13.1,2019
+"Sacramento city, California",Sacramento,135724,85731,93.7,6.3,2010
+"Sacramento city, California",Sacramento,138594,86002,91.6,6.3,2011
+"Sacramento city, California",Sacramento,138426,81199,91.2,8.8,2012
+"Sacramento city, California",Sacramento,133748,80297,93.7,6.3,2013
+"Sacramento city, California",Sacramento,137165,85912,92.1,7.9,2014
+"Sacramento city, California",Sacramento,135461,87360,92.8,7.2,2015
+"Sacramento city, California",Sacramento,128255,81530,94.6,5.4,2016
+"Sacramento city, California",Sacramento,128309,80385,89.8,10.2,2017
+"Sacramento city, California",Sacramento,134650,84253,93.5,6.5,2018
+"Sacramento city, California",Sacramento,135161,81619,93.2,6.8,2019
+"San Francisco city, California",San Francisco,173193,73711,77.7,22.3,2010
+"San Francisco city, California",San Francisco,173307,73139,72.2,22.3,2011
+"San Francisco city, California",San Francisco,177449,73939,71.9,28.1,2012
+"San Francisco city, California",San Francisco,169712,73383,74.7,25.3,2013
+"San Francisco city, California",San Francisco,165846,74830,75.5,24.5,2014
+"San Francisco city, California",San Francisco,169617,76834,76.5,23.5,2015
+"San Francisco city, California",San Francisco,160135,77581,71.7,28.3,2016
+"San Francisco city, California",San Francisco,157580,77119,72.3,27.7,2017
+"San Francisco city, California",San Francisco,166024,75617,68.5,31.5,2018
+"San Francisco city, California",San Francisco,164113,78239,73.2,26.8,2019
+"Seattle city, Washington",Seattle,149087,62402,80.6,19.4,2010
+"Seattle city, Washington",Seattle,151800,63241,79.3,19.4,2011
+"Seattle city, Washington",Seattle,146732,62861,77.9,22.1,2012
+"Seattle city, Washington",Seattle,146527,65589,76.8,23.2,2013
+"Seattle city, Washington",Seattle,150022,63578,80.1,19.9,2014
+"Seattle city, Washington",Seattle,149355,65167,78.9,21.1,2015
+"Seattle city, Washington",Seattle,154555,73214,78.8,21.2,2016
+"Seattle city, Washington",Seattle,159906,77238,81.7,18.3,2017
+"Seattle city, Washington",Seattle,160561,69980,78.3,21.7,2018
+"Seattle city, Washington",Seattle,161594,76662,78.2,21.8,2019
+"Tucson city, Arizona",Tucson,157759,85569,93.3,6.7,2010
+"Tucson city, Arizona",Tucson,155214,84331,91.1,6.7,2011
+"Tucson city, Arizona",Tucson,153490,84579,91.7,8.3,2012
+"Tucson city, Arizona",Tucson,148477,86047,93,7,2013
+"Tucson city, Arizona",Tucson,155606,83739,93.3,6.7,2014
+"Tucson city, Arizona",Tucson,146279,81203,93.6,6.4,2015
+"Tucson city, Arizona",Tucson,155512,85357,91.9,8.1,2016
+"Tucson city, Arizona",Tucson,151708,84209,88.9,11.1,2017
+"Tucson city, Arizona",Tucson,151391,83646,90.3,9.7,2018
+"Tucson city, Arizona",Tucson,144839,79256,92,8,2019
+"Washington city, District of Columbia",Washington,158455,72940,81.9,18.1,2010
+"Washington city, District of Columbia",Washington,160469,73606,83.6,18.1,2011
+"Washington city, District of Columbia",Washington,159737,74736,82.1,17.9,2012
+"Washington city, District of Columbia",Washington,162510,72326,82.2,17.8,2013
+"Washington city, District of Columbia",Washington,164598,75353,84,16,2014
+"Washington city, District of Columbia",Washington,166940,76014,83.5,16.5,2015
+"Washington city, District of Columbia",Washington,168430,79580,88.9,11.1,2016
+"Washington city, District of Columbia",Washington,167649,80345,83.9,16.1,2017
+"Washington city, District of Columbia",Washington,173303,86096,82.9,17.1,2018
+"Washington city, District of Columbia",Washington,169418,81575,86.4,13.6,2019
