@@ -1,0 +1,151 @@
+﻿city_state,name,unemployment_rate,year
+"Albuquerque city, New Mexico",Albuquerque,8,2010
+"Albuquerque city, New Mexico",Albuquerque,10.5,2011
+"Albuquerque city, New Mexico",Albuquerque,8.8,2012
+"Albuquerque city, New Mexico",Albuquerque,7.3,2013
+"Albuquerque city, New Mexico",Albuquerque,8.3,2014
+"Albuquerque city, New Mexico",Albuquerque,6.7,2015
+"Albuquerque city, New Mexico",Albuquerque,5.2,2016
+"Albuquerque city, New Mexico",Albuquerque,4.8,2017
+"Albuquerque city, New Mexico",Albuquerque,5.7,2018
+"Albuquerque city, New Mexico",Albuquerque,5.1,2019
+"Austin city, Texas",Austin,8.4,2010
+"Austin city, Texas",Austin,8.3,2011
+"Austin city, Texas",Austin,7.1,2012
+"Austin city, Texas",Austin,5.9,2013
+"Austin city, Texas",Austin,4.5,2014
+"Austin city, Texas",Austin,4.2,2015
+"Austin city, Texas",Austin,3.5,2016
+"Austin city, Texas",Austin,3.5,2017
+"Austin city, Texas",Austin,3.8,2018
+"Austin city, Texas",Austin,3.4,2019
+"Charlotte city, North Carolina",Charlotte,13.3,2010
+"Charlotte city, North Carolina",Charlotte,11.3,2011
+"Charlotte city, North Carolina",Charlotte,10.5,2012
+"Charlotte city, North Carolina",Charlotte,10.2,2013
+"Charlotte city, North Carolina",Charlotte,9.2,2014
+"Charlotte city, North Carolina",Charlotte,7.3,2015
+"Charlotte city, North Carolina",Charlotte,5.4,2016
+"Charlotte city, North Carolina",Charlotte,4.6,2017
+"Charlotte city, North Carolina",Charlotte,4.2,2018
+"Charlotte city, North Carolina",Charlotte,3.6,2019
+"Columbus city, Ohio",Columbus,12.3,2010
+"Columbus city, Ohio",Columbus,10.7,2011
+"Columbus city, Ohio",Columbus,8.5,2012
+"Columbus city, Ohio",Columbus,7.2,2013
+"Columbus city, Ohio",Columbus,6.4,2014
+"Columbus city, Ohio",Columbus,6.6,2015
+"Columbus city, Ohio",Columbus,6.2,2016
+"Columbus city, Ohio",Columbus,5.1,2017
+"Columbus city, Ohio",Columbus,5,2018
+"Columbus city, Ohio",Columbus,4.6,2019
+"Denver city, Colorado",Denver,11.9,2010
+"Denver city, Colorado",Denver,9.5,2011
+"Denver city, Colorado",Denver,7.2,2012
+"Denver city, Colorado",Denver,5.9,2013
+"Denver city, Colorado",Denver,4.7,2014
+"Denver city, Colorado",Denver,4.5,2015
+"Denver city, Colorado",Denver,4.3,2016
+"Denver city, Colorado",Denver,3.2,2017
+"Denver city, Colorado",Denver,3.6,2018
+"Denver city, Colorado",Denver,3,2019
+"Detroit city, Michigan",Detroit,32.5,2010
+"Detroit city, Michigan",Detroit,29.3,2011
+"Detroit city, Michigan",Detroit,27.7,2012
+"Detroit city, Michigan",Detroit,25.3,2013
+"Detroit city, Michigan",Detroit,21.6,2014
+"Detroit city, Michigan",Detroit,20.6,2015
+"Detroit city, Michigan",Detroit,16.5,2016
+"Detroit city, Michigan",Detroit,15.8,2017
+"Detroit city, Michigan",Detroit,13.1,2018
+"Detroit city, Michigan",Detroit,11.2,2019
+"El Paso city, Texas",El Paso,8.8,2010
+"El Paso city, Texas",El Paso,7.6,2011
+"El Paso city, Texas",El Paso,10.4,2012
+"El Paso city, Texas",El Paso,8.4,2013
+"El Paso city, Texas",El Paso,7.8,2014
+"El Paso city, Texas",El Paso,6.3,2015
+"El Paso city, Texas",El Paso,5.8,2016
+"El Paso city, Texas",El Paso,6.6,2017
+"El Paso city, Texas",El Paso,6.6,2018
+"El Paso city, Texas",El Paso,5.7,2019
+"Indianapolis city (balance), Indiana",Indianapolis,13.5,2010
+"Indianapolis city (balance), Indiana",Indianapolis,12.1,2011
+"Indianapolis city (balance), Indiana",Indianapolis,11.2,2012
+"Indianapolis city (balance), Indiana",Indianapolis,10.6,2013
+"Indianapolis city (balance), Indiana",Indianapolis,8.9,2014
+"Indianapolis city (balance), Indiana",Indianapolis,8.3,2015
+"Indianapolis city (balance), Indiana",Indianapolis,5.9,2016
+"Indianapolis city (balance), Indiana",Indianapolis,6.3,2017
+"Indianapolis city (balance), Indiana",Indianapolis,5.9,2018
+"Indianapolis city (balance), Indiana",Indianapolis,5.6,2019
+"Las Vegas city, Nevada",Las Vegas,14.7,2010
+"Las Vegas city, Nevada",Las Vegas,13.3,2011
+"Las Vegas city, Nevada",Las Vegas,14.1,2012
+"Las Vegas city, Nevada",Las Vegas,12.9,2013
+"Las Vegas city, Nevada",Las Vegas,10.2,2014
+"Las Vegas city, Nevada",Las Vegas,9.2,2015
+"Las Vegas city, Nevada",Las Vegas,6.8,2016
+"Las Vegas city, Nevada",Las Vegas,5.8,2017
+"Las Vegas city, Nevada",Las Vegas,6.2,2018
+"Las Vegas city, Nevada",Las Vegas,5.9,2019
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,12.7,2010
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,13,2011
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,10.6,2012
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,8.4,2013
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,7.3,2014
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,6.6,2015
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,6.3,2016
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,5.8,2017
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,5.6,2018
+"Louisville/Jefferson County metro government (balance), Kentucky",Louisville,4.9,2019
+"Memphis city, Tennessee",Memphis,14.9,2010
+"Memphis city, Tennessee",Memphis,14.5,2011
+"Memphis city, Tennessee",Memphis,14.1,2012
+"Memphis city, Tennessee",Memphis,13.6,2013
+"Memphis city, Tennessee",Memphis,10.1,2014
+"Memphis city, Tennessee",Memphis,10.1,2015
+"Memphis city, Tennessee",Memphis,8.5,2016
+"Memphis city, Tennessee",Memphis,8.5,2017
+"Memphis city, Tennessee",Memphis,9.6,2018
+"Memphis city, Tennessee",Memphis,7.5,2019
+"Mesa city, Arizona",Mesa,11.3,2010
+"Mesa city, Arizona",Mesa,9.6,2011
+"Mesa city, Arizona",Mesa,9.2,2012
+"Mesa city, Arizona",Mesa,7.4,2013
+"Mesa city, Arizona",Mesa,6.5,2014
+"Mesa city, Arizona",Mesa,5.8,2015
+"Mesa city, Arizona",Mesa,5.6,2016
+"Mesa city, Arizona",Mesa,4.6,2017
+"Mesa city, Arizona",Mesa,4.5,2018
+"Mesa city, Arizona",Mesa,4.9,2019
+"San Francisco city, California",San Francisco,9,2010
+"San Francisco city, California",San Francisco,7.4,2011
+"San Francisco city, California",San Francisco,7.7,2012
+"San Francisco city, California",San Francisco,7.3,2013
+"San Francisco city, California",San Francisco,6.2,2014
+"San Francisco city, California",San Francisco,5.1,2015
+"San Francisco city, California",San Francisco,4.5,2016
+"San Francisco city, California",San Francisco,3.8,2017
+"San Francisco city, California",San Francisco,3.7,2018
+"San Francisco city, California",San Francisco,3.7,2019
+"Seattle city, Washington",Seattle,9.1,2010
+"Seattle city, Washington",Seattle,7.2,2011
+"Seattle city, Washington",Seattle,5.9,2012
+"Seattle city, Washington",Seattle,5.9,2013
+"Seattle city, Washington",Seattle,4.5,2014
+"Seattle city, Washington",Seattle,4.8,2015
+"Seattle city, Washington",Seattle,4.7,2016
+"Seattle city, Washington",Seattle,4,2017
+"Seattle city, Washington",Seattle,3.8,2018
+"Seattle city, Washington",Seattle,3.6,2019
+"Tucson city, Arizona",Tucson,13.1,2010
+"Tucson city, Arizona",Tucson,13.9,2011
+"Tucson city, Arizona",Tucson,11.4,2012
+"Tucson city, Arizona",Tucson,12.2,2013
+"Tucson city, Arizona",Tucson,9.8,2014
+"Tucson city, Arizona",Tucson,9.7,2015
+"Tucson city, Arizona",Tucson,8.9,2016
+"Tucson city, Arizona",Tucson,8.5,2017
+"Tucson city, Arizona",Tucson,5.7,2018
+"Tucson city, Arizona",Tucson,6.3,2019

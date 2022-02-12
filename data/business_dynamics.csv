@@ -1,0 +1,271 @@
+metro,name,year,firms,estab,emp,estab_change,percent_change
+"Albuquerque, NM Metro Area",Albuquerque,2019,13657,17189,313459,90,0.526347
+"Albuquerque, NM Metro Area",Albuquerque,2018,13596,17099,308120,-137,-0.79485
+"Albuquerque, NM Metro Area",Albuquerque,2017,13647,17236,305071,50,0.290934
+"Albuquerque, NM Metro Area",Albuquerque,2016,13587,17186,308432,94,0.549965
+"Albuquerque, NM Metro Area",Albuquerque,2015,13570,17092,299071,46,0.269858
+"Albuquerque, NM Metro Area",Albuquerque,2014,13595,17046,295551,7,0.041082
+"Albuquerque, NM Metro Area",Albuquerque,2013,13705,17039,276998,-2,-0.01174
+"Albuquerque, NM Metro Area",Albuquerque,2012,13675,17041,280631,3,0.017608
+"Albuquerque, NM Metro Area",Albuquerque,2011,13659,17038,284622,-33,-0.19331
+"Albuquerque, NM Metro Area",Albuquerque,2010,13754,17071,288177,NaN,NaN
+"Austin-Round Rock, TX Metro Area",Austin,2010,29823,37522,644673,NaN,NaN
+"Austin-Round Rock, TX Metro Area",Austin,2011,30504,38385,658853,863,2.299984
+"Austin-Round Rock, TX Metro Area",Austin,2012,31472,39464,686895,1079,2.810994
+"Austin-Round Rock, TX Metro Area",Austin,2013,32590,40867,713630,1403,3.555139
+"Austin-Round Rock, TX Metro Area",Austin,2014,33924,42516,752171,1649,4.03504
+"Austin-Round Rock, TX Metro Area",Austin,2015,35108,44066,787888,1550,3.645686
+"Austin-Round Rock, TX Metro Area",Austin,2016,36549,46165,835517,2099,4.76331
+"Austin-Round Rock, TX Metro Area",Austin,2017,37466,47162,842468,997,2.159645
+"Austin-Round Rock, TX Metro Area",Austin,2018,38676,48549,881821,1387,2.940927
+"Austin-Round Rock, TX Metro Area",Austin,2019,39866,49967,906614,1418,2.92076
+"Baltimore-Columbia-Towson, MD Metro Area",Baltimore,2010,47388,59034,1060878,NaN,NaN
+"Baltimore-Columbia-Towson, MD Metro Area",Baltimore,2011,47032,58809,1071750,-225,-0.38114
+"Baltimore-Columbia-Towson, MD Metro Area",Baltimore,2012,47522,59287,1090561,478,0.812801
+"Baltimore-Columbia-Towson, MD Metro Area",Baltimore,2013,47638,59584,1112358,297,0.500953
+"Baltimore-Columbia-Towson, MD Metro Area",Baltimore,2014,47667,60036,1125305,452,0.758593
+"Baltimore-Columbia-Towson, MD Metro Area",Baltimore,2015,47796,60339,1147363,303,0.504697
+"Baltimore-Columbia-Towson, MD Metro Area",Baltimore,2016,48331,61216,1178106,877,1.453455
+"Baltimore-Columbia-Towson, MD Metro Area",Baltimore,2017,48389,61149,1195177,-67,-0.10945
+"Baltimore-Columbia-Towson, MD Metro Area",Baltimore,2018,48479,61155,1210943,6,0.009812
+"Baltimore-Columbia-Towson, MD Metro Area",Baltimore,2019,48607,61262,1219897,107,0.174965
+"Boston-Cambridge-Newton, MA-NH Metro Area",Boston,2010,88407,110862,2255271,NaN,NaN
+"Boston-Cambridge-Newton, MA-NH Metro Area",Boston,2011,88468,111257,2288015,395,0.356299
+"Boston-Cambridge-Newton, MA-NH Metro Area",Boston,2012,89567,112213,2337346,956,0.859272
+"Boston-Cambridge-Newton, MA-NH Metro Area",Boston,2013,90206,113013,2375687,800,0.71293
+"Boston-Cambridge-Newton, MA-NH Metro Area",Boston,2014,90889,114204,2385749,1191,1.053861
+"Boston-Cambridge-Newton, MA-NH Metro Area",Boston,2015,91562,115158,2452130,954,0.835347
+"Boston-Cambridge-Newton, MA-NH Metro Area",Boston,2016,93122,117721,2494762,2563,2.225638
+"Boston-Cambridge-Newton, MA-NH Metro Area",Boston,2017,93772,118686,2541305,965,0.819735
+"Boston-Cambridge-Newton, MA-NH Metro Area",Boston,2018,94339,119093,2603270,407,0.342922
+"Boston-Cambridge-Newton, MA-NH Metro Area",Boston,2019,95123,120280,2642698,1187,0.9967
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte,2010,37818,48998,874040,NaN,NaN
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte,2011,37669,48788,892803,-210,-0.42859
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte,2012,38150,49443,924414,655,1.342543
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte,2013,38684,50133,955604,690,1.395546
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte,2014,39308,50962,959942,829,1.653601
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte,2015,40134,52034,997337,1072,2.103528
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte,2016,41469,53853,1038103,1819,3.495791
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte,2017,42558,55374,1072041,1521,2.824355
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte,2018,43436,56172,1097183,798,1.44111
+"Charlotte-Concord-Gastonia, NC-SC Metro Area",Charlotte,2019,44226,57339,1130012,1167,2.077548
+"Columbus, OH Metro Area",Columbus,2010,27431,36937,759528,NaN,NaN
+"Columbus, OH Metro Area",Columbus,2011,27455,36636,775254,-301,-0.8149
+"Columbus, OH Metro Area",Columbus,2012,27594,36884,814661,248,0.67693
+"Columbus, OH Metro Area",Columbus,2013,27908,37283,824674,399,1.08177
+"Columbus, OH Metro Area",Columbus,2014,28020,37680,832246,397,1.064828
+"Columbus, OH Metro Area",Columbus,2015,28262,38200,844363,520,1.380042
+"Columbus, OH Metro Area",Columbus,2016,28605,39045,872863,845,2.212042
+"Columbus, OH Metro Area",Columbus,2017,28782,39140,887340,95,0.243309
+"Columbus, OH Metro Area",Columbus,2018,29047,39580,913301,440,1.12417
+"Columbus, OH Metro Area",Columbus,2019,29446,40092,924697,512,1.293583
+"Dallas-Fort Worth-Arlington, TX Metro Area",Fort Worth,2010,97412,129361,2560508,NaN,NaN
+"Dallas-Fort Worth-Arlington, TX Metro Area",Fort Worth,2011,97724,130288,2624497,927,0.716599
+"Dallas-Fort Worth-Arlington, TX Metro Area",Fort Worth,2012,99864,132582,2701961,2294,1.760715
+"Dallas-Fort Worth-Arlington, TX Metro Area",Fort Worth,2013,101795,134892,2795570,2310,1.742318
+"Dallas-Fort Worth-Arlington, TX Metro Area",Fort Worth,2014,104118,138530,2896689,3638,2.696972
+"Dallas-Fort Worth-Arlington, TX Metro Area",Fort Worth,2015,106603,141470,3021557,2940,2.122284
+"Dallas-Fort Worth-Arlington, TX Metro Area",Fort Worth,2016,109382,145810,3127595,4340,3.067788
+"Dallas-Fort Worth-Arlington, TX Metro Area",Fort Worth,2017,111895,148466,3225805,2656,1.821549
+"Dallas-Fort Worth-Arlington, TX Metro Area",Fort Worth,2018,114164,150524,3282155,2058,1.386176
+"Dallas-Fort Worth-Arlington, TX Metro Area",Fort Worth,2019,116440,153430,3367719,2906,1.930589
+"Denver-Aurora-Lakewood, CO Metro Area",Denver,2010,51950,64525,1084478,NaN,NaN
+"Denver-Aurora-Lakewood, CO Metro Area",Denver,2011,52117,64877,1098749,352,0.545525
+"Denver-Aurora-Lakewood, CO Metro Area",Denver,2012,52909,65600,1131276,723,1.114417
+"Denver-Aurora-Lakewood, CO Metro Area",Denver,2013,53859,66638,1175843,1038,1.582317
+"Denver-Aurora-Lakewood, CO Metro Area",Denver,2014,55154,68449,1230103,1811,2.717669
+"Denver-Aurora-Lakewood, CO Metro Area",Denver,2015,56599,70246,1277826,1797,2.625312
+"Denver-Aurora-Lakewood, CO Metro Area",Denver,2016,58187,72451,1320981,2205,3.138969
+"Denver-Aurora-Lakewood, CO Metro Area",Denver,2017,59392,73881,1352729,1430,1.973748
+"Denver-Aurora-Lakewood, CO Metro Area",Denver,2018,60413,74814,1385444,933,1.262842
+"Denver-Aurora-Lakewood, CO Metro Area",Denver,2019,61176,75831,1380251,1017,1.359371
+"Detroit-Warren-Dearborn, MI Metro Area",Detroit,2010,68298,86013,1510866,NaN,NaN
+"Detroit-Warren-Dearborn, MI Metro Area",Detroit,2011,68457,86511,1574784,498,0.578982
+"Detroit-Warren-Dearborn, MI Metro Area",Detroit,2012,69207,86715,1611183,204,0.235808
+"Detroit-Warren-Dearborn, MI Metro Area",Detroit,2013,69568,86977,1649437,262,0.302139
+"Detroit-Warren-Dearborn, MI Metro Area",Detroit,2014,69777,87418,1691128,441,0.507031
+"Detroit-Warren-Dearborn, MI Metro Area",Detroit,2015,70258,88352,1756664,934,1.06843
+"Detroit-Warren-Dearborn, MI Metro Area",Detroit,2016,71305,89833,1805490,1481,1.67625
+"Detroit-Warren-Dearborn, MI Metro Area",Detroit,2017,71298,89755,1826909,-78,-0.08683
+"Detroit-Warren-Dearborn, MI Metro Area",Detroit,2018,71513,89915,1890750,160,0.178263
+"Detroit-Warren-Dearborn, MI Metro Area",Detroit,2019,71176,89718,1881063,-197,-0.2191
+"El Paso, TX Metro Area",El Paso,2010,9729,12356,215695,NaN,NaN
+"El Paso, TX Metro Area",El Paso,2011,9959,12645,220140,289,2.338945
+"El Paso, TX Metro Area",El Paso,2012,9991,12723,224474,78,0.616845
+"El Paso, TX Metro Area",El Paso,2013,10037,12800,225580,77,0.605203
+"El Paso, TX Metro Area",El Paso,2014,10044,12979,226891,179,1.398438
+"El Paso, TX Metro Area",El Paso,2015,10082,13112,234394,133,1.024732
+"El Paso, TX Metro Area",El Paso,2016,10229,13397,241275,285,2.173581
+"El Paso, TX Metro Area",El Paso,2017,10258,13480,245307,83,0.619542
+"El Paso, TX Metro Area",El Paso,2018,10482,13701,251923,221,1.639466
+"El Paso, TX Metro Area",El Paso,2019,10603,13849,254434,148,1.080213
+"Fresno, CA Metro Area",Fresno,2010,12153,14563,225739,NaN,NaN
+"Fresno, CA Metro Area",Fresno,2011,12047,14488,228670,-75,-0.515
+"Fresno, CA Metro Area",Fresno,2012,12136,14570,235565,82,0.565986
+"Fresno, CA Metro Area",Fresno,2013,12191,14636,243031,66,0.452986
+"Fresno, CA Metro Area",Fresno,2014,12347,14864,247330,228,1.557803
+"Fresno, CA Metro Area",Fresno,2015,12424,15056,256402,192,1.291712
+"Fresno, CA Metro Area",Fresno,2016,12579,15268,261290,212,1.408077
+"Fresno, CA Metro Area",Fresno,2017,12697,15376,270982,108,0.707362
+"Fresno, CA Metro Area",Fresno,2018,12876,15569,277037,193,1.255203
+"Fresno, CA Metro Area",Fresno,2019,13090,15800,284901,231,1.483718
+"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis,2010,30558,40418,782695,NaN,NaN
+"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis,2011,30530,40522,795962,104,0.257311
+"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis,2012,30658,40704,829398,182,0.449139
+"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis,2013,30735,40784,846087,80,0.196541
+"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis,2014,30807,41051,872125,267,0.654668
+"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis,2015,31080,41714,899125,663,1.615064
+"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis,2016,31566,42722,930091,1008,2.416455
+"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis,2017,31908,43104,956240,382,0.894153
+"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis,2018,32123,43228,968325,124,0.287676
+"Indianapolis-Carmel-Anderson, IN Metro Area",Indianapolis,2019,32238,43701,985648,473,1.094198
+"Jacksonville, FL Metro Area",Jacksonville,2010,23866,30486,503460,NaN,NaN
+"Jacksonville, FL Metro Area",Jacksonville,2011,23764,30441,499549,-45,-0.14761
+"Jacksonville, FL Metro Area",Jacksonville,2012,23997,30718,509260,277,0.909957
+"Jacksonville, FL Metro Area",Jacksonville,2013,24442,31139,525386,421,1.370532
+"Jacksonville, FL Metro Area",Jacksonville,2014,24817,31657,540893,518,1.663509
+"Jacksonville, FL Metro Area",Jacksonville,2015,25327,32370,556699,713,2.252266
+"Jacksonville, FL Metro Area",Jacksonville,2016,26194,33445,580920,1075,3.320976
+"Jacksonville, FL Metro Area",Jacksonville,2017,26781,34091,600825,646,1.931529
+"Jacksonville, FL Metro Area",Jacksonville,2018,27142,34449,613330,358,1.050131
+"Jacksonville, FL Metro Area",Jacksonville,2019,27743,35101,623180,652,1.892653
+"Kansas City, MO-KS Metro Area",Kansas City,2010,35348,45141,850817,NaN,NaN
+"Kansas City, MO-KS Metro Area",Kansas City,2011,35043,45087,856633,-54,-0.11963
+"Kansas City, MO-KS Metro Area",Kansas City,2012,35314,45315,872935,228,0.505689
+"Kansas City, MO-KS Metro Area",Kansas City,2013,35440,45500,886132,185,0.408253
+"Kansas City, MO-KS Metro Area",Kansas City,2014,36262,46767,911318,1267,2.784615
+"Kansas City, MO-KS Metro Area",Kansas City,2015,36861,47568,932539,801,1.712746
+"Kansas City, MO-KS Metro Area",Kansas City,2016,37800,48933,953352,1365,2.869576
+"Kansas City, MO-KS Metro Area",Kansas City,2017,37828,48818,978796,-115,-0.23502
+"Kansas City, MO-KS Metro Area",Kansas City,2018,37085,47871,988226,-947,-1.93986
+"Kansas City, MO-KS Metro Area",Kansas City,2019,36957,47845,1000674,-26,-0.05431
+"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas,2010,26704,34618,734549,NaN,NaN
+"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas,2011,26904,34917,736384,299,0.863713
+"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas,2012,27290,35305,745623,388,1.111207
+"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas,2013,27777,35762,767554,457,1.294434
+"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas,2014,28594,36898,801681,1136,3.176556
+"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas,2015,29482,38124,832146,1226,3.322673
+"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas,2016,30485,39474,857200,1350,3.541076
+"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas,2017,31048,40141,881730,667,1.68972
+"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas,2018,32022,41119,899304,978,2.436412
+"Las Vegas-Henderson-Paradise, NV Metro Area",Las Vegas,2019,32609,41777,938575,658,1.600233
+"Louisville/Jefferson County, KY-IN Metro Area",Louisville,2010,20519,26285,499686,NaN,NaN
+"Louisville/Jefferson County, KY-IN Metro Area",Louisville,2011,20234,26096,502754,-189,-0.71904
+"Louisville/Jefferson County, KY-IN Metro Area",Louisville,2012,20150,26056,516975,-40,-0.15328
+"Louisville/Jefferson County, KY-IN Metro Area",Louisville,2013,20105,26084,530966,28,0.107461
+"Louisville/Jefferson County, KY-IN Metro Area",Louisville,2014,20167,26398,544363,314,1.203803
+"Louisville/Jefferson County, KY-IN Metro Area",Louisville,2015,20226,26715,571341,317,1.200849
+"Louisville/Jefferson County, KY-IN Metro Area",Louisville,2016,20433,27136,584614,421,1.575894
+"Louisville/Jefferson County, KY-IN Metro Area",Louisville,2017,20436,27037,596396,-99,-0.36483
+"Louisville/Jefferson County, KY-IN Metro Area",Louisville,2018,20526,27073,608031,36,0.133151
+"Louisville/Jefferson County, KY-IN Metro Area",Louisville,2019,20583,27271,623032,198,0.731356
+"Memphis, TN-MS-AR Metro Area",Memphis,2010,17773,24151,508724,NaN,#VALUE!
+"Memphis, TN-MS-AR Metro Area",Memphis,2011,17606,23903,511654,-248,-1.02687
+"Memphis, TN-MS-AR Metro Area",Memphis,2012,17451,23683,519588,-220,-0.92039
+"Memphis, TN-MS-AR Metro Area",Memphis,2013,17423,23577,525525,-106,-0.44758
+"Memphis, TN-MS-AR Metro Area",Memphis,2014,17376,23708,528030,131,0.555626
+"Memphis, TN-MS-AR Metro Area",Memphis,2015,17330,23696,532441,-12,-0.05062
+"Memphis, TN-MS-AR Metro Area",Memphis,2016,17417,23980,544739,284,1.198515
+"Memphis, TN-MS-AR Metro Area",Memphis,2017,17408,23961,546986,-19,-0.07923
+"Memphis, TN-MS-AR Metro Area",Memphis,2018,17485,23994,553496,33,0.137724
+"Memphis, TN-MS-AR Metro Area",Memphis,2019,17408,24072,567332,78,0.325081
+"Milwaukee-Waukesha-West Allis, WI Metro Area",Milwaukee,2010,27694,35041,738062,NaN,NaN
+"Milwaukee-Waukesha-West Allis, WI Metro Area",Milwaukee,2011,27220,34579,752818,-462,-1.31846
+"Milwaukee-Waukesha-West Allis, WI Metro Area",Milwaukee,2012,27052,34480,759147,-99,-0.2863
+"Milwaukee-Waukesha-West Allis, WI Metro Area",Milwaukee,2013,26991,34415,771660,-65,-0.18852
+"Milwaukee-Waukesha-West Allis, WI Metro Area",Milwaukee,2014,27053,34541,775720,126,0.366119
+"Milwaukee-Waukesha-West Allis, WI Metro Area",Milwaukee,2015,27186,34755,792435,214,0.619554
+"Milwaukee-Waukesha-West Allis, WI Metro Area",Milwaukee,2016,27387,35393,796414,638,1.835707
+"Milwaukee-Waukesha-West Allis, WI Metro Area",Milwaukee,2017,27324,35399,802609,6,0.016953
+"Milwaukee-Waukesha-West Allis, WI Metro Area",Milwaukee,2018,27350,35333,812268,-66,-0.18645
+"Milwaukee-Waukesha-West Allis, WI Metro Area",Milwaukee,2019,27262,35420,812611,87,0.246229
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville,2010,27965,36408,678970,NaN,NaN
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville,2011,27838,36220,695793,-188,-0.51637
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville,2012,27927,36311,718389,91,0.251242
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville,2013,28360,36968,748442,657,1.809369
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville,2014,28690,37556,780736,588,1.590565
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville,2015,29135,38497,803590,941,2.505592
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville,2016,29730,39572,843047,1075,2.792425
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville,2017,30329,40316,880353,744,1.880117
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville,2018,30845,40788,892028,472,1.170751
+"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area",Nashville,2019,31265,41537,915411,749,1.836324
+"Oklahoma City, OK Metro Area",Oklahoma City,2010,24632,30072,457405,NaN,NaN
+"Oklahoma City, OK Metro Area",Oklahoma City,2011,24812,30386,472795,314,1.044161
+"Oklahoma City, OK Metro Area",Oklahoma City,2012,25101,30801,485804,415,1.365761
+"Oklahoma City, OK Metro Area",Oklahoma City,2013,25367,31084,499132,283,0.918801
+"Oklahoma City, OK Metro Area",Oklahoma City,2014,25742,31589,521625,505,1.62463
+"Oklahoma City, OK Metro Area",Oklahoma City,2015,25947,31964,526752,375,1.187122
+"Oklahoma City, OK Metro Area",Oklahoma City,2016,26105,32334,528229,370,1.157552
+"Oklahoma City, OK Metro Area",Oklahoma City,2017,26319,32522,528203,188,0.581431
+"Oklahoma City, OK Metro Area",Oklahoma City,2018,26387,32484,534557,-38,-0.11684
+"Oklahoma City, OK Metro Area",Oklahoma City,2019,26504,32636,549988,152,0.467923
+"Phoenix-Mesa-Scottsdale, AZ Metro Area",Mesa,2010,58735,77560,1480010,NaN,NaN
+"Phoenix-Mesa-Scottsdale, AZ Metro Area",Mesa,2011,58331,77169,1530433,-391,-0.50413
+"Phoenix-Mesa-Scottsdale, AZ Metro Area",Mesa,2012,58770,77562,1543164,393,0.509272
+"Phoenix-Mesa-Scottsdale, AZ Metro Area",Mesa,2013,59780,78754,1586645,1192,1.536835
+"Phoenix-Mesa-Scottsdale, AZ Metro Area",Mesa,2014,60733,80462,1634746,1708,2.168779
+"Phoenix-Mesa-Scottsdale, AZ Metro Area",Mesa,2015,61811,81751,1695794,1289,1.601998
+"Phoenix-Mesa-Scottsdale, AZ Metro Area",Mesa,2016,63351,84192,1756376,2441,2.985896
+"Phoenix-Mesa-Scottsdale, AZ Metro Area",Mesa,2017,64782,85945,1812520,1753,2.082146
+"Phoenix-Mesa-Scottsdale, AZ Metro Area",Mesa,2018,66314,87342,1896068,1397,1.625458
+"Phoenix-Mesa-Scottsdale, AZ Metro Area",Mesa,2019,67508,88701,1948656,1359,1.555952
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland,2010,45178,56065,852905,NaN,NaN
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland,2011,45330,56307,871931,242,0.431642
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland,2012,45855,56721,893525,414,0.735255
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland,2013,46552,57586,914012,865,1.525008
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland,2014,47468,58788,939293,1202,2.087313
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland,2015,48606,60294,984158,1506,2.561747
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland,2016,50019,62011,1019809,1717,2.847713
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland,2017,50898,63058,1054458,1047,1.68841
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland,2018,51826,63935,1078876,877,1.390783
+"Portland-Vancouver-Hillsboro, OR-WA Metro Area",Portland,2019,52074,64226,1096518,291,0.45515
+"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Sacramento,2010,32297,40369,624690,NaN,NaN
+"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Sacramento,2011,32224,40342,634468,-27,-0.06688
+"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Sacramento,2012,32537,40703,636898,361,0.894849
+"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Sacramento,2013,32758,40905,663206,202,0.496278
+"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Sacramento,2014,33309,41634,677055,729,1.782178
+"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Sacramento,2015,33965,42386,699700,752,1.806216
+"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Sacramento,2016,34774,43648,724662,1262,2.977398
+"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Sacramento,2017,35311,44056,756578,408,0.934751
+"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Sacramento,2018,36055,44862,778065,806,1.82949
+"Sacramento--Roseville--Arden-Arcade, CA Metro Area",Sacramento,2019,36803,45647,802102,785,1.749811
+"San Francisco-Oakland-Hayward, CA Metro Area",San Francisco,2010,87028,106269,1753384,NaN,NaN
+"San Francisco-Oakland-Hayward, CA Metro Area",San Francisco,2011,87463,106908,1756650,639,0.601304
+"San Francisco-Oakland-Hayward, CA Metro Area",San Francisco,2012,88898,108360,1822753,1452,1.358177
+"San Francisco-Oakland-Hayward, CA Metro Area",San Francisco,2013,89908,109499,1889769,1139,1.051126
+"San Francisco-Oakland-Hayward, CA Metro Area",San Francisco,2014,91713,111996,1971215,2497,2.280386
+"San Francisco-Oakland-Hayward, CA Metro Area",San Francisco,2015,93300,113828,2050520,1832,1.635773
+"San Francisco-Oakland-Hayward, CA Metro Area",San Francisco,2016,94939,116208,2129573,2380,2.090874
+"San Francisco-Oakland-Hayward, CA Metro Area",San Francisco,2017,95333,117000,2219502,792,0.681537
+"San Francisco-Oakland-Hayward, CA Metro Area",San Francisco,2018,95997,117314,2289233,314,0.268376
+"San Francisco-Oakland-Hayward, CA Metro Area",San Francisco,2019,97086,118455,2384871,1141,0.972603
+"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle,2010,69124,85980,1393430,NaN,NaN
+"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle,2011,68601,85556,1395951,-424,-0.49314
+"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle,2012,69149,85985,1422680,429,0.501426
+"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle,2013,70245,86948,1465634,963,1.119963
+"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle,2014,71611,88722,1528952,1774,2.0403
+"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle,2015,72780,90481,1585592,1759,1.982597
+"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle,2016,74224,92528,1609208,2047,2.262353
+"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle,2017,75437,93892,1662387,1364,1.474148
+"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle,2018,76852,95160,1709427,1268,1.350488
+"Seattle-Tacoma-Bellevue, WA Metro Area",Seattle,2019,77465,96003,1745014,843,0.885876
+"Tucson, AZ Metro Area",Tucson,2010,14484,18341,303202,NaN,NaN
+"Tucson, AZ Metro Area",Tucson,2011,14314,18269,303429,-72,-0.39256
+"Tucson, AZ Metro Area",Tucson,2012,14283,18230,306591,-39,-0.21348
+"Tucson, AZ Metro Area",Tucson,2013,14121,18092,309726,-138,-0.75699
+"Tucson, AZ Metro Area",Tucson,2014,14065,18148,305871,56,0.309529
+"Tucson, AZ Metro Area",Tucson,2015,14114,18264,311658,116,0.639189
+"Tucson, AZ Metro Area",Tucson,2016,14226,18475,318106,211,1.155278
+"Tucson, AZ Metro Area",Tucson,2017,14159,18406,321111,-69,-0.37348
+"Tucson, AZ Metro Area",Tucson,2018,14092,18327,327085,-79,-0.42921
+"Tucson, AZ Metro Area",Tucson,2019,14098,18362,336299,35,0.190975
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington,2010,98558,127848,2390729,NaN,NaN
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington,2011,98949,129191,2449446,1343,1.050466
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington,2012,100221,130068,2489246,877,0.67884
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington,2013,101267,131749,2517068,1681,1.292401
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington,2014,102455,134037,2541350,2288,1.736636
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington,2015,103833,135684,2577083,1647,1.228765
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington,2016,105510,138819,2627423,3135,2.310516
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington,2017,106309,139712,2696177,893,0.643284
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington,2018,107213,140307,2755318,595,0.425876
+"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area",Washington,2019,107981,141348,2796096,1041,0.741944

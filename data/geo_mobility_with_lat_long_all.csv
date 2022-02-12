@@ -1,0 +1,271 @@
+﻿city_state,city,year,total_year,same_county,diff_county,diff_state,from_abroad,latitude,longitude,point_latitude,point_longitude
+"Albuquerque, New Mexico",Albuquerque,2010,540574,10.6,2,3.4,0.4,35.10°N,106.64°W,35.1,-106.64
+"Albuquerque, New Mexico",Albuquerque,2011,544579,11,2.7,2.9,0.5,35.10°N,106.64°W,35.1,-106.64
+"Albuquerque, New Mexico",Albuquerque,2012,548340,11.2,2.4,3,0.8,35.10°N,106.64°W,35.1,-106.64
+"Albuquerque, New Mexico",Albuquerque,2013,549629,12.8,2,2.6,0.6,35.10°N,106.64°W,35.1,-106.64
+"Albuquerque, New Mexico",Albuquerque,2014,550317,10.1,3.1,2.8,0.2,35.10°N,106.64°W,35.1,-106.64
+"Albuquerque, New Mexico",Albuquerque,2015,552275,12.8,2.2,2.5,0.4,35.10°N,106.64°W,35.1,-106.64
+"Albuquerque, New Mexico",Albuquerque,2016,553849,12.4,1.6,3.3,0.3,35.10°N,106.64°W,35.1,-106.64
+"Albuquerque, New Mexico",Albuquerque,2017,551049,8.9,1.4,2.7,0.4,35.10°N,106.64°W,35.1,-106.64
+"Albuquerque, New Mexico",Albuquerque,2018,553759,10,2.4,2.9,0.6,35.10°N,106.64°W,35.1,-106.64
+"Albuquerque, New Mexico",Albuquerque,2019,553804,11.9,1.5,1.8,0.5,35.10°N,106.64°W,35.1,-106.64
+"Austin, Texas",Austin,2010,782461,18.9,5.4,2.8,1.2,30.30°N,97.75°W,30.3,-97.75
+"Austin, Texas",Austin,2011,809464,16.7,5.5,3.8,0.6,30.30°N,97.75°W,30.3,-97.75
+"Austin, Texas",Austin,2012,831672,17,6.1,3.2,1.2,30.30°N,97.75°W,30.3,-97.75
+"Austin, Texas",Austin,2013,874143,14,5.5,3.1,1.3,30.30°N,97.75°W,30.3,-97.75
+"Austin, Texas",Austin,2014,900040,12.9,5.3,3.7,1.1,30.30°N,97.75°W,30.3,-97.75
+"Austin, Texas",Austin,2015,919721,12,4.2,3.4,1.1,30.30°N,97.75°W,30.3,-97.75
+"Austin, Texas",Austin,2016,934294,11.1,4.4,3.1,1.1,30.30°N,97.75°W,30.3,-97.75
+"Austin, Texas",Austin,2017,938330,11.5,4.6,3.5,1.5,30.30°N,97.75°W,30.3,-97.75
+"Austin, Texas",Austin,2018,953463,12.7,5.1,3.1,0.8,30.30°N,97.75°W,30.3,-97.75
+"Austin, Texas",Austin,2019,967577,13.1,4.5,3.2,1.4,30.30°N,97.75°W,30.3,-97.75
+"Baltimore, Maryland",Baltimore,2010,612017,11.5,2.6,2,0.5,39.30°N,76.61°W,39.3,-76.61
+"Baltimore, Maryland",Baltimore,2011,610849,10.5,3.7,2.4,0.6,39.30°N,76.61°W,39.3,-76.61
+"Baltimore, Maryland",Baltimore,2012,612602,11.1,3.1,2.2,0.6,39.30°N,76.61°W,39.3,-76.61
+"Baltimore, Maryland",Baltimore,2013,612995,11.3,4.3,2.3,0.7,39.30°N,76.61°W,39.3,-76.61
+"Baltimore, Maryland",Baltimore,2014,615275,10.9,3.2,2.3,0.7,39.30°N,76.61°W,39.3,-76.61
+"Baltimore, Maryland",Baltimore,2015,613552,11.3,3.4,2.5,0.7,39.30°N,76.61°W,39.3,-76.61
+"Baltimore, Maryland",Baltimore,2016,607542,10.4,4,2.3,0.7,39.30°N,76.61°W,39.3,-76.61
+"Baltimore, Maryland",Baltimore,2017,603746,9,3,2.5,0.6,39.30°N,76.61°W,39.3,-76.61
+"Baltimore, Maryland",Baltimore,2018,595926,9.3,3.7,2.4,0.8,39.30°N,76.61°W,39.3,-76.61
+"Baltimore, Maryland",Baltimore,2019,586469,9.1,3.2,2.6,0.4,39.30°N,76.61°W,39.3,-76.61
+"Boston, Massachusetts",Boston,2010,615629,12.2,4.5,5,1.9,42.33°N,71.02°W,42.33,-71.02
+"Boston, Massachusetts",Boston,2011,618046,12,4.4,4.4,2.2,42.33°N,71.02°W,42.33,-71.02
+"Boston, Massachusetts",Boston,2012,631408,10.3,4.2,4.5,2.1,42.33°N,71.02°W,42.33,-71.02
+"Boston, Massachusetts",Boston,2013,638500,11.3,4.8,4.1,2,42.33°N,71.02°W,42.33,-71.02
+"Boston, Massachusetts",Boston,2014,648438,9.7,3.6,4.4,2.2,42.33°N,71.02°W,42.33,-71.02
+"Boston, Massachusetts",Boston,2015,661446,9.3,4.1,3.8,1.8,42.33°N,71.02°W,42.33,-71.02
+"Boston, Massachusetts",Boston,2016,664168,10.8,4.2,4.4,2.3,42.33°N,71.02°W,42.33,-71.02
+"Boston, Massachusetts",Boston,2017,676287,9,4.5,4.1,2.1,42.33°N,71.02°W,42.33,-71.02
+"Boston, Massachusetts",Boston,2018,688679,7.9,4.2,4.8,2,42.33°N,71.02°W,42.33,-71.02
+"Boston, Massachusetts",Boston,2019,687036,8.6,4.4,4,1.6,42.33°N,71.02°W,42.33,-71.02
+"Charlotte, North Carolina",Charlotte,2010,725808,14.6,2.6,3.4,1.2,35.20°N,80.83°W,35.2,-80.83
+"Charlotte, North Carolina",Charlotte,2011,741987,12.9,2.1,4.7,0.9,35.20°N,80.83°W,35.2,-80.83
+"Charlotte, North Carolina",Charlotte,2012,762800,12.5,2.7,4.1,0.5,35.20°N,80.83°W,35.2,-80.83
+"Charlotte, North Carolina",Charlotte,2013,784272,12.6,2.7,4.6,1,35.20°N,80.83°W,35.2,-80.83
+"Charlotte, North Carolina",Charlotte,2014,798163,14.7,2.5,4.6,0.8,35.20°N,80.83°W,35.2,-80.83
+"Charlotte, North Carolina",Charlotte,2015,815490,12.8,2.9,4.8,0.8,35.20°N,80.83°W,35.2,-80.83
+"Charlotte, North Carolina",Charlotte,2016,830055,11.2,2.4,5,0.9,35.20°N,80.83°W,35.2,-80.83
+"Charlotte, North Carolina",Charlotte,2017,849948,11.3,1.8,3.5,1.2,35.20°N,80.83°W,35.2,-80.83
+"Charlotte, North Carolina",Charlotte,2018,862010,10.1,2.1,4.1,0.8,35.20°N,80.83°W,35.2,-80.83
+"Charlotte, North Carolina",Charlotte,2019,872125,9,2.2,4.3,1.2,35.20°N,80.83°W,35.2,-80.83
+"Columbus, Ohio",Columbus,2010,778002,17,4.2,1.7,0.7,39.98°N,82.98°W,39.98,-82.98
+"Columbus, Ohio",Columbus,2011,786775,16.3,3.6,3,0.7,39.98°N,82.98°W,39.98,-82.98
+"Columbus, Ohio",Columbus,2012,798718,13.9,4.3,3,0.9,39.98°N,82.98°W,39.98,-82.98
+"Columbus, Ohio",Columbus,2013,809934,14.5,3.5,2.3,1.1,39.98°N,82.98°W,39.98,-82.98
+"Columbus, Ohio",Columbus,2014,823548,15.7,4.3,3.5,0.8,39.98°N,82.98°W,39.98,-82.98
+"Columbus, Ohio",Columbus,2015,836248,14.9,4,2.6,0.8,39.98°N,82.98°W,39.98,-82.98
+"Columbus, Ohio",Columbus,2016,849806,15.2,3.6,2.5,1.1,39.98°N,82.98°W,39.98,-82.98
+"Columbus, Ohio",Columbus,2017,868634,15.1,3.6,2.1,1.1,39.98°N,82.98°W,39.98,-82.98
+"Columbus, Ohio",Columbus,2018,883234,14.4,3.2,2.7,0.9,39.98°N,82.98°W,39.98,-82.98
+"Columbus, Ohio",Columbus,2019,887026,16.5,3.6,2,0.6,39.98°N,82.98°W,39.98,-82.98
+"Denver, Colorado",Denver,2010,595003,12.4,6.4,4,0.7,39.76°N,104.88°W,39.76,-104.88
+"Denver, Colorado",Denver,2011,610005,10.3,8.7,4,1.2,39.76°N,104.88°W,39.76,-104.88
+"Denver, Colorado",Denver,2012,624608,10.3,7.6,4.4,0.8,39.76°N,104.88°W,39.76,-104.88
+"Denver, Colorado",Denver,2013,639929,10.1,5.6,4,0.5,39.76°N,104.88°W,39.76,-104.88
+"Denver, Colorado",Denver,2014,655069,11.3,7.6,4.2,1,39.76°N,104.88°W,39.76,-104.88
+"Denver, Colorado",Denver,2015,672556,8.6,5.8,4.6,0.9,39.76°N,104.88°W,39.76,-104.88
+"Denver, Colorado",Denver,2016,683757,8.7,7,4.6,0.5,39.76°N,104.88°W,39.76,-104.88
+"Denver, Colorado",Denver,2017,697290,8.8,6.6,4.7,0.7,39.76°N,104.88°W,39.76,-104.88
+"Denver, Colorado",Denver,2018,706987,7.6,5.8,4.9,1,39.76°N,104.88°W,39.76,-104.88
+"Denver, Colorado",Denver,2019,719506,8.2,4.9,5.1,0.7,39.76°N,104.88°W,39.76,-104.88
+"Detroit, Michigan",Detroit,2010,702073,14.3,1.9,0.6,0.2,42.38°N,83.10°W,42.38,-83.1
+"Detroit, Michigan",Detroit,2011,696759,11.5,1.5,1,0.4,42.38°N,83.10°W,42.38,-83.1
+"Detroit, Michigan",Detroit,2012,692752,13.2,1.7,0.9,0.5,42.38°N,83.10°W,42.38,-83.1
+"Detroit, Michigan",Detroit,2013,679356,13.5,1.8,1,0.3,42.38°N,83.10°W,42.38,-83.1
+"Detroit, Michigan",Detroit,2014,670586,13.3,2.4,0.9,0.3,42.38°N,83.10°W,42.38,-83.1
+"Detroit, Michigan",Detroit,2015,668337,12,1.8,1,0.4,42.38°N,83.10°W,42.38,-83.1
+"Detroit, Michigan",Detroit,2016,661751,12.1,2.5,1.2,0.4,42.38°N,83.10°W,42.38,-83.1
+"Detroit, Michigan",Detroit,2017,664366,11.2,2.5,1.3,0.5,42.38°N,83.10°W,42.38,-83.1
+"Detroit, Michigan",Detroit,2018,662750,8.4,2.2,1,0.2,42.38°N,83.10°W,42.38,-83.1
+"Detroit, Michigan",Detroit,2019,661408,10.8,2.3,0.9,0.4,42.38°N,83.10°W,42.38,-83.1
+"El Paso, Texas",El Paso,2010,644368,11.4,0.9,3.4,1.7,31.84°N,106.42°W,31.84,-106.42
+"El Paso, Texas",El Paso,2011,657257,11.7,0.8,3.5,1.8,31.84°N,106.42°W,31.84,-106.42
+"El Paso, Texas",El Paso,2012,662606,8.9,0.8,2.8,1.8,31.84°N,106.42°W,31.84,-106.42
+"El Paso, Texas",El Paso,2013,664766,9.4,0.6,2.8,1,31.84°N,106.42°W,31.84,-106.42
+"El Paso, Texas",El Paso,2014,668153,9.7,0.7,2.6,1.5,31.84°N,106.42°W,31.84,-106.42
+"El Paso, Texas",El Paso,2015,671239,9.9,1.3,2.4,1.3,31.84°N,106.42°W,31.84,-106.42
+"El Paso, Texas",El Paso,2016,670453,10.6,1.2,2.9,1.3,31.84°N,106.42°W,31.84,-106.42
+"El Paso, Texas",El Paso,2017,672291,11.2,1.2,2.9,0.7,31.84°N,106.42°W,31.84,-106.42
+"El Paso, Texas",El Paso,2018,672715,10.7,1.5,2.8,1,31.84°N,106.42°W,31.84,-106.42
+"El Paso, Texas",El Paso,2019,672792,10.3,1,2.8,1.1,31.84°N,106.42°W,31.84,-106.42
+"Fort Worth, Texas",Fort Worth,2010,733235,12.7,3.1,1.7,0.3,32.78°N,97.34°W,32.78,-97.34
+"Fort Worth, Texas",Fort Worth,2011,749603,13.4,2.6,2,0.5,32.78°N,97.34°W,32.78,-97.34
+"Fort Worth, Texas",Fort Worth,2012,771732,12,2.8,2.4,1.1,32.78°N,97.34°W,32.78,-97.34
+"Fort Worth, Texas",Fort Worth,2013,782137,14,3,1.8,0.5,32.78°N,97.34°W,32.78,-97.34
+"Fort Worth, Texas",Fort Worth,2014,798284,13.2,2.8,2.3,0.9,32.78°N,97.34°W,32.78,-97.34
+"Fort Worth, Texas",Fort Worth,2015,823985,12,2.8,2,0.6,32.78°N,97.34°W,32.78,-97.34
+"Fort Worth, Texas",Fort Worth,2016,840804,11,2.4,2.9,0.8,32.78°N,97.34°W,32.78,-97.34
+"Fort Worth, Texas",Fort Worth,2017,861087,11.3,3.4,2,0.8,32.78°N,97.34°W,32.78,-97.34
+"Fort Worth, Texas",Fort Worth,2018,885616,10.9,2.9,2.3,0.7,32.78°N,97.34°W,32.78,-97.34
+"Fort Worth, Texas",Fort Worth,2019,900700,8.3,3,2.2,0.5,32.78°N,97.34°W,32.78,-97.34
+"Fresno, California",Fresno,2010,488690,16.1,1.5,0.5,0.6,36.78°N,119.79°W,36.78,-119.79
+"Fresno, California",Fresno,2011,493749,16.4,3.2,0.7,0.3,36.78°N,119.79°W,36.78,-119.79
+"Fresno, California",Fresno,2012,497408,15.7,2.9,0.9,0.3,36.78°N,119.79°W,36.78,-119.79
+"Fresno, California",Fresno,2013,502698,14.9,2.7,0.5,0.7,36.78°N,119.79°W,36.78,-119.79
+"Fresno, California",Fresno,2014,508501,14.7,3,0.6,0.8,36.78°N,119.79°W,36.78,-119.79
+"Fresno, California",Fresno,2015,510470,15.8,2.9,1,0.6,36.78°N,119.79°W,36.78,-119.79
+"Fresno, California",Fresno,2016,511751,14.2,2.7,0.6,0.4,36.78°N,119.79°W,36.78,-119.79
+"Fresno, California",Fresno,2017,520357,12.3,2,1,0.5,36.78°N,119.79°W,36.78,-119.79
+"Fresno, California",Fresno,2018,522717,11.8,2.7,1,0.4,36.78°N,119.79°W,36.78,-119.79
+"Fresno, California",Fresno,2019,525068,9.8,2.2,0.9,0.2,36.78°N,119.79°W,36.78,-119.79
+"Indianapolis, Indiana",Indianapolis,2010,812113,14.3,2.5,1.6,0.6,39.77°N,86.14°W,39.77,-86.14
+"Indianapolis, Indiana",Indianapolis,2011,812462,12.8,3.1,1.7,0.5,39.77°N,86.14°W,39.77,-86.14
+"Indianapolis, Indiana",Indianapolis,2012,821502,10.6,3.1,1.6,0.4,39.77°N,86.14°W,39.77,-86.14
+"Indianapolis, Indiana",Indianapolis,2013,826537,11.9,3.1,2.1,0.6,39.77°N,86.14°W,39.77,-86.14
+"Indianapolis, Indiana",Indianapolis,2014,839790,11.2,2.5,2,0.5,39.77°N,86.14°W,39.77,-86.14
+"Indianapolis, Indiana",Indianapolis,2015,837299,10.8,3.1,1.8,0.4,39.77°N,86.14°W,39.77,-86.14
+"Indianapolis, Indiana",Indianapolis,2016,840260,9.1,2.9,1.8,0.4,39.77°N,86.14°W,39.77,-86.14
+"Indianapolis, Indiana",Indianapolis,2017,847104,10.1,2.6,1.8,0.6,39.77°N,86.14°W,39.77,-86.14
+"Indianapolis, Indiana",Indianapolis,2018,852722,10.7,2.5,2.1,0.8,39.77°N,86.14°W,39.77,-86.14
+"Indianapolis, Indiana",Indianapolis,2019,858953,8.4,2.1,2.2,0.5,39.77°N,86.14°W,39.77,-86.14
+"Jacksonville, Florida",Jacksonville,2010,812641,13.3,3.2,3.1,0.5,30.33°N,81.66°W,30.33,-81.66
+"Jacksonville, Florida",Jacksonville,2011,816038,12.7,2.3,2.9,0.4,30.33°N,81.66°W,30.33,-81.66
+"Jacksonville, Florida",Jacksonville,2012,825648,13,2.4,2.6,0.8,30.33°N,81.66°W,30.33,-81.66
+"Jacksonville, Florida",Jacksonville,2013,830415,12.5,3.2,2.9,0.4,30.33°N,81.66°W,30.33,-81.66
+"Jacksonville, Florida",Jacksonville,2014,840567,14.2,2.6,3.4,0.5,30.33°N,81.66°W,30.33,-81.66
+"Jacksonville, Florida",Jacksonville,2015,856748,13.6,2.6,3.2,0.7,30.33°N,81.66°W,30.33,-81.66
+"Jacksonville, Florida",Jacksonville,2016,867624,12.6,2.4,3.5,1.1,30.33°N,81.66°W,30.33,-81.66
+"Jacksonville, Florida",Jacksonville,2017,878097,13.2,2.3,2.9,1,30.33°N,81.66°W,30.33,-81.66
+"Jacksonville, Florida",Jacksonville,2018,892080,13,2.3,2.6,0.7,30.33°N,81.66°W,30.33,-81.66
+"Jacksonville, Florida",Jacksonville,2019,899706,12,3.2,2.9,0.5,30.33°N,81.66°W,30.33,-81.66
+"Kansas City, Missouri",Kansas City,2010,453777,11.3,3.5,4.3,0.3,39.12°N,94.55°W,39.12,-94.55
+"Kansas City, Missouri",Kansas City,2011,456341,13.4,3.8,4.4,0.4,39.12°N,94.55°W,39.12,-94.55
+"Kansas City, Missouri",Kansas City,2012,458373,11.1,3.2,3.8,0.4,39.12°N,94.55°W,39.12,-94.55
+"Kansas City, Missouri",Kansas City,2013,459480,11.3,4.1,4.9,0.4,39.12°N,94.55°W,39.12,-94.55
+"Kansas City, Missouri",Kansas City,2014,463890,10.9,3.3,3.9,0.5,39.12°N,94.55°W,39.12,-94.55
+"Kansas City, Missouri",Kansas City,2015,469420,11,3.3,4.4,0.4,39.12°N,94.55°W,39.12,-94.55
+"Kansas City, Missouri",Kansas City,2016,476199,9.8,3.6,4,0.5,39.12°N,94.55°W,39.12,-94.55
+"Kansas City, Missouri",Kansas City,2017,481104,11.7,2.9,4.3,0.5,39.12°N,94.55°W,39.12,-94.55
+"Kansas City, Missouri",Kansas City,2018,485511,8.4,3.2,4.2,0.2,39.12°N,94.55°W,39.12,-94.55
+"Kansas City, Missouri",Kansas City,2019,489995,9.5,2.9,5.2,0.6,39.12°N,94.55°W,39.12,-94.55
+"Las Vegas, Nevada",Las Vegas,2010,575534,19.7,0.3,3.5,0.9,36.22°N,115.26°W,36.22,-115.26
+"Las Vegas, Nevada",Las Vegas,2011,582173,22.4,0.1,4.4,0.5,36.22°N,115.26°W,36.22,-115.26
+"Las Vegas, Nevada",Las Vegas,2012,588099,18.9,0.2,4.4,0.7,36.22°N,115.26°W,36.22,-115.26
+"Las Vegas, Nevada",Las Vegas,2013,597206,18,0.2,4.3,0.7,36.22°N,115.26°W,36.22,-115.26
+"Las Vegas, Nevada",Las Vegas,2014,605351,16.3,0.1,4.2,0.6,36.22°N,115.26°W,36.22,-115.26
+"Las Vegas, Nevada",Las Vegas,2015,617053,15.6,0.1,4.7,0.5,36.22°N,115.26°W,36.22,-115.26
+"Las Vegas, Nevada",Las Vegas,2016,624769,14.9,0.2,4.2,0.6,36.22°N,115.26°W,36.22,-115.26
+"Las Vegas, Nevada",Las Vegas,2017,633800,12.4,0.2,4.3,0.7,36.22°N,115.26°W,36.22,-115.26
+"Las Vegas, Nevada",Las Vegas,2018,635560,12.2,0.5,4.3,0.7,36.22°N,115.26°W,36.22,-115.26
+"Las Vegas, Nevada",Las Vegas,2019,644570,13.4,0.1,4.1,0.6,36.22°N,115.26°W,36.22,-115.26
+"Louisville, Kentucky",Louisville,2010,591153,10.1,1.5,1.9,0.5,38.16°N,85.64°W,38.16,-85.64
+"Louisville, Kentucky",Louisville,2011,593099,10.2,1.3,2.2,0.3,38.16°N,85.64°W,38.16,-85.64
+"Louisville, Kentucky",Louisville,2012,597617,10.1,1.6,2.3,0.6,38.16°N,85.64°W,38.16,-85.64
+"Louisville, Kentucky",Louisville,2013,602214,9.8,2.8,1.7,0.5,38.16°N,85.64°W,38.16,-85.64
+"Louisville, Kentucky",Louisville,2014,604260,11.9,1.9,1.9,0.5,38.16°N,85.64°W,38.16,-85.64
+"Louisville, Kentucky",Louisville,2015,606497,9.8,2.4,1.9,0.2,38.16°N,85.64°W,38.16,-85.64
+"Louisville, Kentucky",Louisville,2016,608086,13,2.4,1.9,0.2,38.16°N,85.64°W,38.16,-85.64
+"Louisville, Kentucky",Louisville,2017,614680,11.5,1.8,2.1,0.5,38.16°N,85.64°W,38.16,-85.64
+"Louisville, Kentucky",Louisville,2018,611711,11.8,1.6,2.1,0.2,38.16°N,85.64°W,38.16,-85.64
+"Louisville, Kentucky",Louisville,2019,610948,11.2,1.5,2.6,0.2,38.16°N,85.64°W,38.16,-85.64
+"Memphis, Tennessee",Memphis,2010,639074,16.4,0.8,2.4,0.3,35.10°N,89.97°W,35.1,-89.97
+"Memphis, Tennessee",Memphis,2011,643966,17.5,0.7,2.5,0.4,35.10°N,89.97°W,35.1,-89.97
+"Memphis, Tennessee",Memphis,2012,644689,14.8,1,3,0.5,35.10°N,89.97°W,35.1,-89.97
+"Memphis, Tennessee",Memphis,2013,642845,15.7,0.7,2.7,0.4,35.10°N,89.97°W,35.1,-89.97
+"Memphis, Tennessee",Memphis,2014,649380,15.6,0.8,3.2,0.3,35.10°N,89.97°W,35.1,-89.97
+"Memphis, Tennessee",Memphis,2015,646507,13.1,0.9,2.9,0.5,35.10°N,89.97°W,35.1,-89.97
+"Memphis, Tennessee",Memphis,2016,644105,14.6,1,2.1,0.3,35.10°N,89.97°W,35.1,-89.97
+"Memphis, Tennessee",Memphis,2017,645006,12.5,1,2.4,0.3,35.10°N,89.97°W,35.1,-89.97
+"Memphis, Tennessee",Memphis,2018,640895,10.6,0.4,2.5,0.4,35.10°N,89.97°W,35.1,-89.97
+"Memphis, Tennessee",Memphis,2019,643396,11.1,0.8,2.3,0.2,35.10°N,89.97°W,35.1,-89.97
+"Mesa, Arizona",Mesa,2010,433538,14.4,2.4,3.7,0.7,33.40°N,111.71°W,33.4,-111.71
+"Mesa, Arizona",Mesa,2011,439530,15.6,1.4,3.9,0.8,33.40°N,111.71°W,33.4,-111.71
+"Mesa, Arizona",Mesa,2012,446244,14.7,2.1,3.9,0.4,33.40°N,111.71°W,33.4,-111.71
+"Mesa, Arizona",Mesa,2013,451964,13.9,1.7,3.4,0.8,33.40°N,111.71°W,33.4,-111.71
+"Mesa, Arizona",Mesa,2014,459699,12.7,1.8,3.8,0.7,33.40°N,111.71°W,33.4,-111.71
+"Mesa, Arizona",Mesa,2015,464856,15.2,1.7,3.1,0.6,33.40°N,111.71°W,33.4,-111.71
+"Mesa, Arizona",Mesa,2016,480494,13.9,1.3,3.5,0.7,33.40°N,111.71°W,33.4,-111.71
+"Mesa, Arizona",Mesa,2017,489244,12.8,1.6,4.2,0.4,33.40°N,111.71°W,33.4,-111.71
+"Mesa, Arizona",Mesa,2018,500714,14.3,1.1,5.1,0.5,33.40°N,111.71°W,33.4,-111.71
+"Mesa, Arizona",Mesa,2019,510026,12.1,1.1,3.1,0.6,33.40°N,111.71°W,33.4,-111.71
+"Milwaukee, Wisconsin",Milwaukee,2010,585667,19.1,2,1.8,0.3,43.06°N,87.96°W,43.06,-87.96
+"Milwaukee, Wisconsin",Milwaukee,2011,589185,18.8,2.2,2.1,0.8,43.06°N,87.96°W,43.06,-87.96
+"Milwaukee, Wisconsin",Milwaukee,2012,590189,17,1.9,1.5,0.4,43.06°N,87.96°W,43.06,-87.96
+"Milwaukee, Wisconsin",Milwaukee,2013,590337,15.5,1.9,1.9,0.6,43.06°N,87.96°W,43.06,-87.96
+"Milwaukee, Wisconsin",Milwaukee,2014,592299,14.6,2.3,2.1,0.2,43.06°N,87.96°W,43.06,-87.96
+"Milwaukee, Wisconsin",Milwaukee,2015,592277,13.9,2.2,1.8,0.6,43.06°N,87.96°W,43.06,-87.96
+"Milwaukee, Wisconsin",Milwaukee,2016,587264,15.7,1.9,2,0.4,43.06°N,87.96°W,43.06,-87.96
+"Milwaukee, Wisconsin",Milwaukee,2017,587109,13.1,1.7,2.2,0.6,43.06°N,87.96°W,43.06,-87.96
+"Milwaukee, Wisconsin",Milwaukee,2018,584202,12.2,1.9,1.9,0.7,43.06°N,87.96°W,43.06,-87.96
+"Milwaukee, Wisconsin",Milwaukee,2019,581896,10.6,1.8,2.2,0.5,43.06°N,87.96°W,43.06,-87.96
+"Nashville, Tennessee",Nashville,2010,594582,14.4,3.7,3.9,0.8,36.17°N,86.78°W,36.17,-86.78
+"Nashville, Tennessee",Nashville,2011,601835,13.5,3.7,4.1,1.1,36.17°N,86.78°W,36.17,-86.78
+"Nashville, Tennessee",Nashville,2012,612929,11.9,3.4,4.5,0.7,36.17°N,86.78°W,36.17,-86.78
+"Nashville, Tennessee",Nashville,2013,625702,11.8,2.9,4.3,1.1,36.17°N,86.78°W,36.17,-86.78
+"Nashville, Tennessee",Nashville,2014,634048,10.8,2.9,4.5,0.9,36.17°N,86.78°W,36.17,-86.78
+"Nashville, Tennessee",Nashville,2015,646119,11.9,2.4,3.7,0.8,36.17°N,86.78°W,36.17,-86.78
+"Nashville, Tennessee",Nashville,2016,651790,9.2,3.1,4.4,0.8,36.17°N,86.78°W,36.17,-86.78
+"Nashville, Tennessee",Nashville,2017,655387,11.4,2.3,4.5,0.7,36.17°N,86.78°W,36.17,-86.78
+"Nashville, Tennessee",Nashville,2018,656383,11.7,3.3,5,1,36.17°N,86.78°W,36.17,-86.78
+"Nashville, Tennessee",Nashville,2019,657228,11.4,3.2,4.2,1.1,36.17°N,86.78°W,36.17,-86.78
+"Oklahoma City, Oklahoma",Oklahoma City,2010,573796,12.9,3.1,3.6,0.7,35.46°N,97.51°W,35.46,-97.51
+"Oklahoma City, Oklahoma",Oklahoma City,2011,582757,13.1,4.3,3,0.9,35.46°N,97.51°W,35.46,-97.51
+"Oklahoma City, Oklahoma",Oklahoma City,2012,588318,13.2,3.8,2.9,0.7,35.46°N,97.51°W,35.46,-97.51
+"Oklahoma City, Oklahoma",Oklahoma City,2013,600382,12.3,4.4,3.5,0.4,35.46°N,97.51°W,35.46,-97.51
+"Oklahoma City, Oklahoma",Oklahoma City,2014,611777,12.2,3.7,3.3,0.7,35.46°N,97.51°W,35.46,-97.51
+"Oklahoma City, Oklahoma",Oklahoma City,2015,621987,11.6,5.1,2.3,0.8,35.46°N,97.51°W,35.46,-97.51
+"Oklahoma City, Oklahoma",Oklahoma City,2016,628887,12.6,4.2,2.8,0.6,35.46°N,97.51°W,35.46,-97.51
+"Oklahoma City, Oklahoma",Oklahoma City,2017,631774,11.5,3.5,2.6,0.4,35.46°N,97.51°W,35.46,-97.51
+"Oklahoma City, Oklahoma",Oklahoma City,2018,642383,12.4,3.3,3.5,0.6,35.46°N,97.51°W,35.46,-97.51
+"Oklahoma City, Oklahoma",Oklahoma City,2019,644618,11.7,3.8,3,0.5,35.46°N,97.51°W,35.46,-97.51
+"Portland, Oregon",Portland,2010,577463,12.5,3.2,4.9,0.8,45.53°N,122.65°W,45.53,-122.65
+"Portland, Oregon",Portland,2011,588652,12,3.7,4.5,1.3,45.53°N,122.65°W,45.53,-122.65
+"Portland, Oregon",Portland,2012,597229,11.3,2.7,4.9,0.8,45.53°N,122.65°W,45.53,-122.65
+"Portland, Oregon",Portland,2013,603324,13,4,4.4,0.8,45.53°N,122.65°W,45.53,-122.65
+"Portland, Oregon",Portland,2014,613097,11.7,3.9,4.3,0.9,45.53°N,122.65°W,45.53,-122.65
+"Portland, Oregon",Portland,2015,624849,11.1,2.9,4.7,0.9,45.53°N,122.65°W,45.53,-122.65
+"Portland, Oregon",Portland,2016,633013,11.6,2.8,4.8,1.7,45.53°N,122.65°W,45.53,-122.65
+"Portland, Oregon",Portland,2017,641113,10.4,3.1,4.7,1.1,45.53°N,122.65°W,45.53,-122.65
+"Portland, Oregon",Portland,2018,647558,10.2,3.3,4,0.9,45.53°N,122.65°W,45.53,-122.65
+"Portland, Oregon",Portland,2019,648136,9.9,2.8,4.3,0.6,45.53°N,122.65°W,45.53,-122.65
+"Sacramento, California",Sacramento,2010,460918,17.1,4.8,1.6,0.5,38.56°N,121.46°W,38.56,-121.46
+"Sacramento, California",Sacramento,2011,464380,17.1,3,1.2,0.3,38.56°N,121.46°W,38.56,-121.46
+"Sacramento, California",Sacramento,2012,470283,15.7,3.3,1.8,0.5,38.56°N,121.46°W,38.56,-121.46
+"Sacramento, California",Sacramento,2013,472456,14.8,4.3,1.1,0.7,38.56°N,121.46°W,38.56,-121.46
+"Sacramento, California",Sacramento,2014,480443,12.9,4,1.5,0.5,38.56°N,121.46°W,38.56,-121.46
+"Sacramento, California",Sacramento,2015,483176,11,3.6,1.4,0.6,38.56°N,121.46°W,38.56,-121.46
+"Sacramento, California",Sacramento,2016,489282,9.9,4.2,2.1,0.5,38.56°N,121.46°W,38.56,-121.46
+"Sacramento, California",Sacramento,2017,494946,10.2,4.4,0.9,0.7,38.56°N,121.46°W,38.56,-121.46
+"Sacramento, California",Sacramento,2018,502460,10.8,4.5,1.4,0.7,38.56°N,121.46°W,38.56,-121.46
+"Sacramento, California",Sacramento,2019,508736,11.3,4.8,1,0.6,38.56°N,121.46°W,38.56,-121.46
+"San Francisco, California",San Francisco,2010,798993,9.5,3.7,1.6,1.4,37.72°N,123.03°W,37.72,-123.03
+"San Francisco, California",San Francisco,2011,805064,8.2,4.4,1.8,1.7,37.72°N,123.03°W,37.72,-123.03
+"San Francisco, California",San Francisco,2012,817921,7.4,4.3,2.6,1.7,37.72°N,123.03°W,37.72,-123.03
+"San Francisco, California",San Francisco,2013,830556,7.1,4,2.5,1.7,37.72°N,123.03°W,37.72,-123.03
+"San Francisco, California",San Francisco,2014,843712,6.6,3.8,2,1.4,37.72°N,123.03°W,37.72,-123.03
+"San Francisco, California",San Francisco,2015,855672,6.3,3.8,2.9,1.5,37.72°N,123.03°W,37.72,-123.03
+"San Francisco, California",San Francisco,2016,861068,6.2,3.3,2.2,1.5,37.72°N,123.03°W,37.72,-123.03
+"San Francisco, California",San Francisco,2017,874611,6.9,3.9,2.7,1.3,37.72°N,123.03°W,37.72,-123.03
+"San Francisco, California",San Francisco,2018,875048,7.9,3.7,2.1,1,37.72°N,123.03°W,37.72,-123.03
+"San Francisco, California",San Francisco,2019,873649,7.5,3.6,2.1,1.3,37.72°N,123.03°W,37.72,-123.03
+"Seattle, Washington",Seattle,2010,603362,15.6,2.6,4.3,1.5,47.62°N,122.35°W,47.62,-122.35
+"Seattle, Washington",Seattle,2011,612350,14.5,2.2,4.7,1.2,47.62°N,122.35°W,47.62,-122.35
+"Seattle, Washington",Seattle,2012,626942,12.6,2.5,5,1.2,47.62°N,122.35°W,47.62,-122.35
+"Seattle, Washington",Seattle,2013,645335,14.5,2.5,5.4,1.1,47.62°N,122.35°W,47.62,-122.35
+"Seattle, Washington",Seattle,2014,662250,14.8,2.5,4.4,1.9,47.62°N,122.35°W,47.62,-122.35
+"Seattle, Washington",Seattle,2015,678243,15.2,1.9,5.4,1.4,47.62°N,122.35°W,47.62,-122.35
+"Seattle, Washington",Seattle,2016,697460,14.3,1.9,5.3,1.6,47.62°N,122.35°W,47.62,-122.35
+"Seattle, Washington",Seattle,2017,716870,13.2,2.2,5.2,1.6,47.62°N,122.35°W,47.62,-122.35
+"Seattle, Washington",Seattle,2018,737289,14.1,2.1,6.3,1.7,47.62°N,122.35°W,47.62,-122.35
+"Seattle, Washington",Seattle,2019,747296,15.2,1.8,4.9,1.5,47.62°N,122.35°W,47.62,-122.35
+"Tucson, Arizona",Tucson,2010,515978,17.6,2.4,3.8,0.8,32.15°N,110.87°W,32.15,-110.87
+"Tucson, Arizona",Tucson,2011,519863,19.1,2.6,2.8,0.7,32.15°N,110.87°W,32.15,-110.87
+"Tucson, Arizona",Tucson,2012,517937,16.9,2.1,2.8,0.8,32.15°N,110.87°W,32.15,-110.87
+"Tucson, Arizona",Tucson,2013,519722,19.9,2.6,3.7,1,32.15°N,110.87°W,32.15,-110.87
+"Tucson, Arizona",Tucson,2014,521331,20.3,2.2,3.3,1,32.15°N,110.87°W,32.15,-110.87
+"Tucson, Arizona",Tucson,2015,523461,19.6,2,3.9,1.3,32.15°N,110.87°W,32.15,-110.87
+"Tucson, Arizona",Tucson,2016,523743,18,2.6,3.7,1.3,32.15°N,110.87°W,32.15,-110.87
+"Tucson, Arizona",Tucson,2017,529237,17.9,2.4,3.7,1.3,32.15°N,110.87°W,32.15,-110.87
+"Tucson, Arizona",Tucson,2018,539262,16.4,2.7,3.5,0.9,32.15°N,110.87°W,32.15,-110.87
+"Tucson, Arizona",Tucson,2019,543386,14.7,2.2,3.5,1.1,32.15°N,110.87°W,32.15,-110.87
+"Washington, District of Columbia","Washington, DC",2010,596747,10.7,0,8.6,1.2,38.90°N,77.01°W,38.9,-77.01
+"Washington, District of Columbia","Washington, DC",2011,611608,10.9,0,7.9,1.2,38.90°N,77.01°W,38.9,-77.01
+"Washington, District of Columbia","Washington, DC",2012,624847,9.9,0,8.6,1.4,38.90°N,77.01°W,38.9,-77.01
+"Washington, District of Columbia","Washington, DC",2013,636535,10.8,0,7.3,1.7,38.90°N,77.01°W,38.9,-77.01
+"Washington, District of Columbia","Washington, DC",2014,648586,10.4,0,8.7,1.8,38.90°N,77.01°W,38.9,-77.01
+"Washington, District of Columbia","Washington, DC",2015,663006,10.1,0,9,1.6,38.90°N,77.01°W,38.9,-77.01
+"Washington, District of Columbia","Washington, DC",2016,672022,9.5,0,8.7,1.7,38.90°N,77.01°W,38.9,-77.01
+"Washington, District of Columbia","Washington, DC",2017,684810,9.3,0,8.2,1.5,38.90°N,77.01°W,38.9,-77.01
+"Washington, District of Columbia","Washington, DC",2018,693798,9.9,0,6.9,1.4,38.90°N,77.01°W,38.9,-77.01
+"Washington, District of Columbia","Washington, DC",2019,697556,9.3,0,8.4,1.4,38.90°N,77.01°W,38.9,-77.01

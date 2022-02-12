@@ -1,0 +1,49 @@
+name,year,score_div_index
+Austin,2010,1.1746
+Austin,2019,1.2065
+Baltimore,2010,0.9583
+Baltimore,2019,1.0125
+Boston,2010,1.3523
+Boston,2019,1.3648
+Charlotte,2010,1.2398
+Charlotte,2019,1.3047
+Columbus,2010,1.0628
+Columbus,2019,1.1499
+Denver,2010,1.1627
+Denver,2019,1.1568
+Detroit,2010,0.6821
+Detroit,2019,0.7879
+El Paso,2010,0.6576
+El Paso,2019,0.668
+Fort Worth,2010,1.2482
+Fort Worth,2019,1.289
+Fresno,2010,1.287
+Fresno,2019,1.2687
+Indianapolis,2010,1.0741
+Indianapolis,2019,1.1616
+Jacksonville,2010,1.1326
+Jacksonville,2019,1.207
+Kansas,2010,1.1281
+Kansas,2019,1.1439
+Las Vegas,2010,1.2591
+Las Vegas,2019,1.3194
+Louisville,2010,0.9115
+Louisville,2019,0.9803
+Milwaukee,2010,1.274
+Milwaukee,2019,1.3126
+Nashville,2010,1.1163
+Nashville,2019,1.1553
+Oklahoma,2010,1.2726
+Oklahoma,2019,1.3199
+Portland,2010,0.9863
+Portland,2019,1.0245
+Sacramento,2010,1.4877
+Sacramento,2019,1.4875
+San Francisco,2010,1.314
+San Francisco,2019,1.3243
+Seattle,2010,1.1001
+Seattle,2019,1.1432
+Tucson,2010,1.1088
+Tucson,2019,1.1372
+Washington,2010,1.1506
+Washington,2019,1.2101
